@@ -1,0 +1,69 @@
+=> [[1;34m#(Element:0xe43a7c {[0m
+   name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+   attributes = [
+     [1;34m#(Attr:0xe439b4 {[0m
+       name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+       value = [31m[1;31m"[0m[31mhttps://twitter.com/jmburges[1;31m"[0m[31m[0m
+       })],
+   children = [
+     [1;34m#(Element:0xe43158 {[0m
+       name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+       attributes = [
+         [1;34m#(Attr:0xe430cc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31msocial-icon[1;31m"[0m[31m[0m }),
+         [1;34m#(Attr:0xe4307c {[0m
+           name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+           value = [31m[1;31m"[0m[31m../assets/img/twitter-icon.png[1;31m"[0m[31m[0m
+           })]
+       })]
+   }),
+ [1;34m#(Element:0xe42e74 {[0m
+   name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+   attributes = [
+     [1;34m#(Attr:0xe43798 {[0m
+       name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+       value = [31m[1;31m"[0m[31mhttps://www.linkedin.com/in/jmburges[1;31m"[0m[31m[0m
+       })],
+   children = [
+     [1;34m#(Element:0xe4d6f8 {[0m
+       name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+       attributes = [
+         [1;34m#(Attr:0xe4d464 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31msocial-icon[1;31m"[0m[31m[0m }),
+         [1;34m#(Attr:0xe4d428 {[0m
+           name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+           value = [31m[1;31m"[0m[31m../assets/img/linkedin-icon.png[1;31m"[0m[31m[0m
+           })]
+       })]
+   }),
+ [1;34m#(Element:0xe537d8 {[0m
+   name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+   attributes = [
+     [1;34m#(Attr:0xe536fc {[0m
+       name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+       value = [31m[1;31m"[0m[31mhttps://github.com/jmburges[1;31m"[0m[31m[0m
+       })],
+   children = [
+     [1;34m#(Element:0xe52e64 {[0m
+       name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+       attributes = [
+         [1;34m#(Attr:0xe52bf8 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31msocial-icon[1;31m"[0m[31m[0m }),
+         [1;34m#(Attr:0xe52ba8 {[0m
+           name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+           value = [31m[1;31m"[0m[31m../assets/img/github-icon.png[1;31m"[0m[31m[0m
+           })]
+       })]
+   }),
+ [1;34m#(Element:0xe57c84 {[0m
+   name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+   attributes = [
+     [1;34m#(Attr:0xe57bf8 {[0m name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mhttp://joemburgess.com/[1;31m"[0m[31m[0m })],
+   children = [
+     [1;34m#(Element:0xe576f8 {[0m
+       name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+       attributes = [
+         [1;34m#(Attr:0xe57694 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31msocial-icon[1;31m"[0m[31m[0m }),
+         [1;34m#(Attr:0xe57680 {[0m
+           name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+           value = [31m[1;31m"[0m[31m../assets/img/rss-icon.png[1;31m"[0m[31m[0m
+           })]
+       })]
+   })]
