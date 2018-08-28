@@ -6,7 +6,7 @@ class Scraper
   @@all = []
 
   def self.scrape_index_page(index_url)
-    html = open(index_url) # does File.read() give anything different?
+    html = open(index_url)
 
     page = Nokogiri::HTML(html)
 

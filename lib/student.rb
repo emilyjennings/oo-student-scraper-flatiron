@@ -8,12 +8,18 @@ class Student
     #binding.pry
     @name = student_hash[:name]
     @location = student_hash[:location]
-    student = student_hash
-    @@all << student
+    student_hash = self
+    @@all << self
 
   end
 
   def self.create_from_collection(students_array)
+    students_array.each do |student|
+      binding.pry
+      new_student = {}
+      student[:name] = @name
+      student[:location] = @location
+    end
 
   end
 
