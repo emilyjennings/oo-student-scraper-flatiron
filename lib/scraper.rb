@@ -3,6 +3,7 @@ require 'pry'
 require 'nokogiri'
 
 class Scraper
+  attr_accessor :student
   @@all = []
 
   def self.scrape_index_page(index_url)
